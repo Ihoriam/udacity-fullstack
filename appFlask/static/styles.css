@@ -1,0 +1,86 @@
+body {
+    font-family: sans-serif;
+    color: #ffffff;
+    background-color: #241E33;
+}
+header h1 {
+    color: #F76200;
+    font-size: 45px;
+}
+
+.creater {
+    background-color: #241E33;
+    width: 300px;
+    margin: 10px auto;
+}
+
+.creater a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+main {
+    width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #0F3956;
+    border: 5px solid #F76200;
+}
+
+header, .creater {
+    text-align: center;
+}
+
+.menuitem {
+    background-color: #3C6178;
+    padding: 15px;
+    margin: 20px 0;
+}
+
+.menuitem p {
+    font-size: 17px;
+}
+
+h3 {
+    font-weight: bold;
+
+}
+
+a {
+    text-decoration: none;
+    color:#0092BC;
+}
+
+a:hover {
+    text-decoration: none;
+    color:#F76200;
+}
+
+
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+
+  input[type=button], input[type=submit], input[type=reset] {
+    background-color: #0092BC;
+    color: #ffffff;
+    font-size: 17px;
+    border: none;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px auto;
+    cursor: pointer;
+    display: block;
+  }
+  
+  
+
+
+
+
+
